@@ -1,0 +1,81 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Inha.ins.U1810004.uz" resolutions="1x" timestamp="1580411518952">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3894807443" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="login_logo.gif" crc="3937990356" seo="true" mt="1580303094000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="46400467" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="436936948" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="шаблон-a-favicon.ico" crc="94523705" ref="index"/>
+    <file name="login_logo.gif" crc="3937990356" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u165-4.png" crc="258585062" ref="index"/>
+    <file name="u832-4.png" crc="4217182096" ref="index"/>
+    <file name="u829-4.png" crc="371582661" ref="index"/>
+    <file name="u853-4.png" crc="4241990174" ref="index"/>
+    <file name="u440-4.png" crc="4268827501" ref="index"/>
+    <file name="u445-4.png" crc="3839875238" ref="index"/>
+    <file name="u450-4.png" crc="3782763531" ref="index"/>
+    <file name="u455-4.png" crc="114235182" ref="index"/>
+    <file name="u460-4.png" crc="3966759582" ref="index"/>
+    <file name="u465-4.png" crc="104375394" ref="index"/>
+    <file name="u475-4.png" crc="3836898765" ref="index"/>
+    <file name="u727-4.png" crc="4150201325" ref="index"/>
+    <file name="u769-4.png" crc="4139081182" ref="index"/>
+    <file name="u856-4.png" crc="119037132" ref="index"/>
+    <file name="u485-4.png" crc="149373154" ref="index"/>
+    <file name="u539-4.png" crc="376036414" ref="index"/>
+    <file name="u544-4.png" crc="27084364" ref="index"/>
+    <file name="u772-4.png" crc="4083558945" ref="index"/>
+    <file name="u802-4.png" crc="493369497" ref="index"/>
+    <file name="u494-4.png" crc="4021324428" ref="index"/>
+    <file name="u594-4.png" crc="376036414" ref="index"/>
+    <file name="u559-4.png" crc="402830537" ref="index"/>
+    <file name="u730-4.png" crc="518999246" ref="index"/>
+    <file name="u766-4.png" crc="4139081182" ref="index"/>
+    <file name="u775-4.png" crc="414333390" ref="index"/>
+    <file name="u790-4.png" crc="4167543184" ref="index"/>
+    <file name="u499-4.png" crc="299224371" ref="index"/>
+    <file name="u579-4.png" crc="376036414" ref="index"/>
+    <file name="u554-4.png" crc="68941078" ref="index"/>
+    <file name="u733-4.png" crc="4154449628" ref="index"/>
+    <file name="u763-4.png" crc="4139081182" ref="index"/>
+    <file name="u778-4.png" crc="414333390" ref="index"/>
+    <file name="u793-4.png" crc="4078193288" ref="index"/>
+    <file name="u519-4.png" crc="3845121976" ref="index"/>
+    <file name="u589-4.png" crc="376036414" ref="index"/>
+    <file name="u549-4.png" crc="3879577500" ref="index"/>
+    <file name="u748-4.png" crc="4095930762" ref="index"/>
+    <file name="u760-4.png" crc="352749395" ref="index"/>
+    <file name="u781-4.png" crc="414333390" ref="index"/>
+    <file name="u796-4.png" crc="4078193288" ref="index"/>
+    <file name="u514-4.png" crc="10670298" ref="index"/>
+    <file name="u624-4.png" crc="376036414" ref="index"/>
+    <file name="u634-4.png" crc="3816750915" ref="index"/>
+    <file name="u751-4.png" crc="4127831036" ref="index"/>
+    <file name="u757-4.png" crc="352749395" ref="index"/>
+    <file name="u784-4.png" crc="414333390" ref="index"/>
+    <file name="u799-4.png" crc="4113975463" ref="index"/>
+    <file name="u534-4.png" crc="4218719210" ref="index"/>
+    <file name="u619-4.png" crc="376036414" ref="index"/>
+    <file name="u639-4.png" crc="201758390" ref="index"/>
+    <file name="u745-4.png" crc="4092650031" ref="index"/>
+    <file name="u754-4.png" crc="352749395" ref="index"/>
+    <file name="u787-4.png" crc="414333390" ref="index"/>
+    <file name="u805-4.png" crc="4078193288" ref="index"/>
+    <file name="u811-5.png" crc="4171968175" ref="index"/>
+    <file name="u814-5.png" crc="4053557937" ref="index"/>
+    <file name="u817-6.png" crc="4071860205" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3857988032" seo="true" mt="1580411385332" redirect="true"/>
+</manifest>
